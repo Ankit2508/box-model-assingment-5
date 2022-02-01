@@ -1,0 +1,11 @@
+div{
+    height: 680px;
+    width: 1200px;
+    background-color: chartreuse;
+    margin: 50px 112px;
+    border: darkblue 2px solid;
+    padding: 20px;
+    box-sizing: border-box;
+    outline: rgb(139, 63, 0) 2px solid;
+    box-shadow: 0 0 0 4px rgb(155, 194, 226);
+}
